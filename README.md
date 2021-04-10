@@ -15,3 +15,5 @@ pasos para su intalación en docker
 ejemplo:
 
 docker run  -p 8000:8000 -e TOKEN="6377242c554fdhjgjhg684225e" -e REPO="jazzcsa1991/chelita" -e URL_GIT='https://github.com/jazzcsa1991/chelita.git' flat
+
+5- para configurar frontend favor de ir a https://github.com/jazzcsa1991/flatfrontend.git
